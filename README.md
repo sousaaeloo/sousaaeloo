@@ -46,4 +46,4 @@ Movida pela paixão por tecnologia, estou constantemente em busca de novos desaf
 
 
 ![Eloísa GitHub stats](https://github-readme-stats.vercel.app/api?username=sousaaeloo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sousaaeloo&hide_progress=true)
+![sousaaeloo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sousaaeloo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
