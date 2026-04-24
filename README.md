@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/andreinaoliveira/AndreinaOliveira/blob/master/welcomet.gif?raw=true"><br>
 
 ## 🪷 Sobre mim
-👋 Olá! Sou Eloísa Sousa de Jesus, atualmente cursando o 2º semestre de <b>Ciências da Computação</b>. Tenho uma paixão profunda por tecnologia e programação, sempre buscando aprender e explorar novas soluções criativas.
+👋 Olá! Sou Eloísa Sousa de Jesus, atualmente cursando o 5º semestre de <b>Ciências da Computação</b>. Tenho uma paixão profunda por tecnologia e programação, sempre buscando aprender e explorar novas soluções criativas.
 
 <b>Além da programação...</b>
 
